@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (highly recommended to ignore)
+.venv/
+venv/
+env/
+ENV/
+
+# Environmental variables / Secret keys / Credentials
+.env
+.secrets
+
+# Distribution / packaging outputs
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE specific files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
